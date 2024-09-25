@@ -1,0 +1,12 @@
+{
+  "name": "qanda",
+  "version": "1.0.0",
+  "description": "1. Background & Motivation 2. The Task 3. Getting Started 4. Constraints & Assumptions 5. Marking Criteria 6. Originality of Work 7. Submission 8. Late Submission Policy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
